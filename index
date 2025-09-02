@@ -1,0 +1,66 @@
+# Malik Khan Interiors – Website Prototype
+
+## 📄 Overview
+
+This is a basic front-end website developed for **Malik Khan**, an interior design consultant based in Adelaide. The site is designed to showcase Malik's design portfolio, share blog content, and allow potential clients to book consultations online.
+
+This project was created as part of **Assessment 2.1 – Web Report** and includes five main HTML pages, styled with CSS and enhanced with basic JavaScript interactivity.
+
+---
+
+## 🌐 Website Structure
+
+The website includes the following pages:
+
+1. **Home (`index.html`)** – Introduction, featured project, and a call-to-action
+2. **About (`about.html`)** – Malik's background and design philosophy
+3. **Portfolio (`portfolio.html`)** – Image gallery showcasing past projects
+4. **Book a Consultation (`contact.html`)** – Form for client inquiries and appointment requests
+5. **Blog (`blog.html`)** – Placeholder for future articles and design tips
+
+---
+
+## 🎨 Technologies Used
+
+- **HTML5** – Semantic structure
+- **CSS3** – Responsive layout (Flexbox, media queries)
+- **JavaScript** – Form validation + dynamic portfolio filtering
+
+---
+
+## 🔧 Setup & Usage
+
+To run the website:
+
+1. **Download** the ZIP folder and extract it.
+2. Open the file `index.html` in any modern web browser (Chrome, Firefox, Edge).
+3. Use the navigation bar to explore all five pages.
+
+> No server setup or internet connection is required, as the prototype is fully static and client-side.
+
+---
+
+## 💡 Interactive Features
+
+- **Contact Form Validation**: Ensures all required fields are completed before submission.
+- **Dynamic Portfolio Filter** *(Optional enhancement)*: Filters projects by category using JavaScript.
+
+---
+
+## 📜 Notes
+
+- Placeholder text (`Lorem Ipsum`) is used where real content would be added later.
+- Images used are placeholders or royalty-free samples.
+
+---
+
+## 🔐 Privacy & Ethics
+
+- No actual client data is collected or stored in this prototype.
+- Real-world deployment must include SSL encryption and a privacy policy.
+
+---
+
+## 📁 Folder Structure
+
+

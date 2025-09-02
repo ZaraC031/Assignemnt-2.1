@@ -1,0 +1,71 @@
+<style>
+    body{          
+        background: linear-gradient(135deg, #fffbe7 0% #ffd6e0 100%);
+        min-height: 100vh;
+        margin: 0;
+        font-family:Ariel, sans-serif;
+        padding-left: 40px;
+    }
+
+    main {
+        margin-top: 40px;
+    }
+
+    main section {
+        margin-bottom: 40px;
+    }
+
+    header {
+        background: #001f4d;
+        transition: background 0.3s;
+    }
+
+    header:hover {
+        background: #7f1734;
+    }
+
+    header nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display flex;
+        gap: 24px
+        justify-content: center
+    }
+
+    header nav ul li a{
+        color: #fff;
+        text-decoration: none;
+        fonr-size: 1.2em;
+        padding: 12px 18px;
+        border-radius: 6px;, 
+        transition: background 0.2s, color 0.2s;
+    }
+
+    header nav ul li a:hover {
+        background: #fff;
+        color: #7f1734;
+    }
+
+    h1, h2 {
+        font-family: 'Dancing Script', cursive;
+        font-weight: 900;
+        letter-spacing: 2px;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    h2 {
+        font-size: 3em;
+    }
+
+</style>
+
+<footer>
+    <p>Comntact: infor@malikdesign.com | Follow us on social media! </p>
+</footer>
+
+</body>
+</html>
