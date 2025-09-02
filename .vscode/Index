@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Malik's Design Consultancy</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Banguet+Script&family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1 class="fancy-script" style="text-align:center; color:#001f4d; margin-top:32px; font-size:5em; letter-spacing:2px; text-shadow: 0 2px 8px #6dd5ed;">
+        Malik's Design Consultancy
+    </h1>
+    <header id="header">
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#blog">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="main">
+        <section id="home">
+            <h1>Welcome to Malik Khan Interior Design</h1>
+            <p>Transforming spaces, one design at a time since 2025.</p>
+        </section>
+        <section id="about">
+            <h2>About Malik</h2>
+            <p>Experienced interior designer with a passion for creating functional, beautiful spaces.</p>
+        </section>
+        <section id="services">
+            <h2>Services</h2>
+            <ul>
+                <li>Custom Home Design: Tailored design solutions for new homes.</li>
+                <li>Renovation: Updating and improving existing spaces.</li>
+                <li>Space Planning: Efficient layout design for functionality and flow.</li>
+                <li>Furniture Selection: Choosing appropriate furnishings for spaces.</li>
+                <li>Commercial Office Design: Designing functional and aesthetic office environments.</li>
+                <li>Hospitality and Retail Design: Creating inviting spaces for hotels and stores.</li>
+                <li>Healthcare and Wellness Design: Designing spaces that promote health and well-being.</li>
+                <li>Sustainable Design: Incorporating eco-friendly practices and materials.</li>
+                <li>Smart Home Integration: Implementing technology for enhanced living.</li>
+                <li>Art Curation: Selecting and placing art to enhance interior aesthetics.</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Book a Consultation with Malik</h2>
+            <p>Experienced interior designer with a passion for creating functional, beautiful spaces.</p>
+        </section>
+        <section id="blog">
+            <h2>Read Malik's Blog</h2>
+            <p>Experienced interior designer with a passion for creating functional, beautiful spaces.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Contact: info@malikdesign.com | Follow us on social media!</p>
+    </footer>
+</body>
+</html>
